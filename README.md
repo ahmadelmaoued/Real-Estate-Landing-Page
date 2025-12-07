@@ -25,6 +25,7 @@ Responsive design for all screen sizes
 I built this landing page to improve my development skills, learn by debugging through trial and error, and get more comfortable writing clean, reusable code.
 
  Features
+ 
 ✔️ Eye-catching Hero Section
 
 A bold introduction with a call-to-action button and visually appealing real estate imagery.
@@ -58,13 +59,6 @@ Google Fonts & Icons
 
 Flexbox & Grid
 
-📂 Project Structure
-Real-Estate-Landing-Page/
-│── index.html
-│── style.css
-│── script.js
-│── images/
-└── README.md
 
 🎯 Purpose of the Project
 
@@ -80,9 +74,6 @@ Build a visually appealing design from scratch
 
 Get more comfortable with interactive UI development
 
-📸 Screenshots
-
-(Add screenshots
 
 Contributions are welcome!
 If you want to suggest improvements or new features, feel free to open an issue or submit a pull request.
