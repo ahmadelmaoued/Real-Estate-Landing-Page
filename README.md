@@ -10,19 +10,18 @@ Overview
 
 This project is a fully responsive fake real estate landing page showcasing properties, features, and a user-friendly contact section. While the website itself is fictional, it demonstrates real-world front-end development techniques including:
 
-Modern and clean layout
+• Modern and clean layout
 
-Interactive UI elements
+• Interactive UI elements
 
-Hover effects and animations
+• Hover effects and animations
 
-Smooth navigation
+• Smooth navigation
 
-A working contact form (front-end only)
+• A working contact form (front-end only)
 
-Responsive design for all screen sizes
+• Responsive design for all screen sizes
 
-I built this landing page to improve my development skills, learn by debugging through trial and error, and get more comfortable writing clean, reusable code.
 
  Features
  
@@ -47,32 +46,33 @@ A front-end form where users can enter details to request more information.
 
 The layout adapts smoothly to desktops, tablets, and mobile devices.
 
+
 🛠️ Technologies Used
 
-HTML5
+• HTML5
 
-CSS3
+• CSS3
 
-JavaScript
-
-Google Fonts & Icons
-
-Flexbox & Grid
+• JavaScript
+ 
+• Google Fonts & Icons
+ 
+• Flexbox & Grid
 
 
 🎯 Purpose of the Project
 
 I created this project to:
 
-Practice real-world website structure
+• Practice real-world website structure
 
-Improve my debugging and problem-solving skills
+• Improve my debugging and problem-solving skills
 
-Learn by experimenting and fixing issues through trial and error
+• Learn by experimenting and fixing issues through trial and error
 
-Build a visually appealing design from scratch
+• Build a visually appealing design from scratch
 
-Get more comfortable with interactive UI development
+• Get more comfortable with interactive UI development
 
 
 Contributions are welcome!
